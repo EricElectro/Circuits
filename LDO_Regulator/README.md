@@ -42,7 +42,7 @@
 
 ## Test Objectives
 
-### Primary Goal: {One sentence description of the main goal}
+### Primary Goal: 
 
 - Provide output voltage of 3.3V ±5% under target load current of 12 mA with spikes of up to 120 mA.
 - Maintain stable output voltage with minimal variation during load transients.
@@ -98,7 +98,7 @@
 
 ### SPICE Directives
 
-[LDO Spice Directive](LTSpice\Directives\LDO_Spice_Directive.md)
+[LDO Spice Directive](LTSpice/Directives/LDO_Spice_Directive.md)
 
 ### Target Measurements
 
