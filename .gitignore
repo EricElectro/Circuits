@@ -33,3 +33,6 @@ autosave.*
 *.exe
 *.obj
 *.dll
+
+# Ignore incomplete designs or drafts
+/Buck_Converter/
