@@ -36,3 +36,5 @@ autosave.*
 
 # Ignore incomplete designs or drafts
 /Buck_Converter/
+/LDO_Regulator/Fritzing
+/WR-CRD_SD_CARD_BoB/
