@@ -8,11 +8,7 @@
 
 ## Overview
 
-<<<<<<< HEAD
 - **Objective**: Designing a Discrete 3.3 V Linear Regulator circuit to provide a stable output voltage with low dropout and minimal noise with ability to support changes in the output load current with minimal variation in output voltage.
-=======
-- **Objective**: Designing a Discrete 3.3 V Linear Regulator circuit to provide a stable output voltage with low dropout and minimal noise with able to support changes in the output load current with minimal variation in output voltage.
->>>>>>> a35f3678cec20bcc5b9f115e9a555b486c997c64
 
 ---
 
