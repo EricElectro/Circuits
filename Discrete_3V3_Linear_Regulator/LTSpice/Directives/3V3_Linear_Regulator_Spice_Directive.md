@@ -1,4 +1,4 @@
-# LDO Spice Directives
+# 3.3 V Linear Regulator Spice Directives
 
 ## Steady-State Analysis Directives
 ```spice    
