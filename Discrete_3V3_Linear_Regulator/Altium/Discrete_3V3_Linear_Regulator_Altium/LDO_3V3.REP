@@ -1,0 +1,63 @@
+Teardrop Report LDO_3V3.PcbDoc
+On 1/2/2026 at 3:31:23 AM
+
+Pads visited                : 47
+
+Vias visited                : 3
+
+Pad teardrops failed : 0
+
+Pad R8-1(100.33mm,97.749mm) on Top Layer
+Pad R8-2(100.33mm,95.799mm) on Top Layer
+Pad R5-1(113.284mm,92.255mm) on Top Layer
+Pad R5-2(113.284mm,89.355mm) on Top Layer
+Pad C3-1(90.043mm,94.021mm) on Top Layer
+Pad C3-2(90.043mm,89.621mm) on Top Layer
+Pad R4-1(106.045mm,97.749mm) on Top Layer
+Pad R4-2(106.045mm,95.799mm) on Top Layer
+Pad Q1-4(107.823mm,92.687mm) on Top Layer
+Pad Q1-2(110.123mm,86.637mm) on Top Layer
+Pad Q1-3(107.823mm,86.637mm) on Top Layer
+Pad Q1-1(105.523mm,86.637mm) on Top Layer
+Pad U2-3(94.996mm,85.741mm) on Top Layer
+Pad U2-2(94.046mm,87.741mm) on Top Layer
+Pad U2-1(95.946mm,87.741mm) on Top Layer
+Pad U1-1(102.489mm,91.966mm) on Top Layer
+Pad U1-4(98.679mm,91.966mm) on Top Layer
+Pad U1-2(101.219mm,91.966mm) on Top Layer
+Pad U1-3(99.949mm,91.966mm) on Top Layer
+Pad U1-5(98.679mm,87.133mm) on Top Layer
+Pad U1-6(99.949mm,87.133mm) on Top Layer
+Pad U1-7(101.219mm,87.133mm) on Top Layer
+Pad U1-8(102.489mm,87.133mm) on Top Layer
+Pad R7-1(98.425mm,82.382mm) on Top Layer
+Pad R7-2(98.425mm,80.432mm) on Top Layer
+Pad R6-2(101.473mm,80.432mm) on Top Layer
+Pad R6-1(101.473mm,82.382mm) on Top Layer
+Pad R3-1(103.251mm,95.799mm) on Top Layer
+Pad R3-2(103.251mm,97.749mm) on Top Layer
+Pad R2-1(97.536mm,97.749mm) on Top Layer
+Pad R2-2(97.536mm,95.799mm) on Top Layer
+Pad R1-2(94.615mm,95.799mm) on Top Layer
+Pad R1-1(94.615mm,97.749mm) on Top Layer
+Pad C6-2(110.744mm,82.407mm) on Top Layer
+Pad C6-1(110.744mm,80.407mm) on Top Layer
+Pad C4-2(104.521mm,80.407mm) on Top Layer
+Pad C4-1(104.521mm,82.407mm) on Top Layer
+Pad C2-2(108.966mm,97.774mm) on Top Layer
+Pad C2-1(108.966mm,95.774mm) on Top Layer
+Pad C5-2(107.696mm,80.407mm) on Top Layer
+Pad C5-1(107.696mm,82.407mm) on Top Layer
+Pad C1-2(96.012mm,91.805mm) on Top Layer
+Pad C1-1(96.012mm,89.805mm) on Top Layer
+Pad J2-1(114.3mm,99.06mm) on Multi-Layer
+Pad J3-1(88.9mm,81.28mm) on Multi-Layer
+Pad J4-1(114.3mm,81.28mm) on Multi-Layer
+Pad J1-1(88.9mm,99.06mm) on Multi-Layer
+
+Via teardrops failed : 0
+
+Via (96.139mm,93.726mm) from Top Layer to Bottom Layer
+Via (90.424mm,85.725mm) from Top Layer to Bottom Layer
+Via (114.427mm,85.471mm) from Top Layer to Bottom Layer
+

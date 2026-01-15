@@ -36,5 +36,12 @@ autosave.*
 
 # Ignore incomplete designs or drafts
 /Buck_Converter/
-/LDO_Regulator/Fritzing
+/Discrete_3V3_Linear_Regulator/Fritzing
 /WR-CRD_SD_CARD_BoB/
+
+# Altium temporary files
+*.Tmp
+*.bak
+*.Preview
+__Previews/
+History/

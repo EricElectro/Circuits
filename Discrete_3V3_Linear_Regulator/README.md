@@ -14,11 +14,11 @@
 
 ## Component(s) Used
 
-| Component              | Part Number | Package | Datasheet                                                           | Manufacturer      |
-|------------------------|-------------|---------|---------------------------------------------------------------------|-------------------|
-| BJT (PNP)              | TIP42C      | TO-220  | [Link](https://www.onsemi.com/download/data-sheet/pdf/tip42c-d.pdf) | ON Semiconductor  |
-| Programmable Reference | TL431A928   | TO-92   | [TL431 Datasheet](https://www.ti.com/lit/ds/symlink/tl431.pdf)      | Texas Instruments |
-| Operational Amplifier  | LM358       | SOIC-8  | [LM358 Datasheet](https://www.ti.com/lit/ds/symlink/lm358.pdf)      | Texas Instruments |
+| Component              | Part Number | Package | Datasheet                                                                       | Manufacturer      |
+|------------------------|-------------|---------|---------------------------------------------------------------------------------|-------------------|
+| BJT (PNP)              | TIP42C      | TO-220  | [TIP42C Datasheet](https://www.onsemi.com/download/data-sheet/pdf/tip42c-d.pdf) | ON Semiconductor  |
+| Programmable Reference | TL431A928   | TO-92   | [TL431 Datasheet](https://www.ti.com/lit/ds/symlink/tl431.pdf)                  | Texas Instruments |
+| Operational Amplifier  | LM358       | SOIC-8  | [LM358 Datasheet](https://www.ti.com/lit/ds/symlink/lm358.pdf)                  | Texas Instruments |
 
 ## Circuit Configuration
 

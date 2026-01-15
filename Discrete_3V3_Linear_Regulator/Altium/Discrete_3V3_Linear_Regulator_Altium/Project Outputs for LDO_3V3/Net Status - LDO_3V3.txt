@@ -1,0 +1,17 @@
+Net Status Report
+Filename     : C:\Users\Eric\Documents\Electrical_Engineering\Altium_Projects\LDO_3V3\LDO_3V3.PcbDoc
+Date         : 12/29/2025
+Time         : 11:34:47 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +5, Signal Layers Only, 0mils
+    Base, Signal Layers Only, 0mils
+    Base Network, Signal Layers Only, 0mils
+    Collector, Signal Layers Only, 0mils
+    Emitter, Signal Layers Only, 0mils
+    FB, Signal Layers Only, 0mils
+    GND, Signal Layers Only, 0mils
+    OpAmp Out, Signal Layers Only, 0mils
+    VREF, Signal Layers Only, 0mils
+count : 9
